@@ -1,5 +1,5 @@
 # Job-Scrapper   
-Python Saramin Job Scrapper   
+Python Job Scrapper   
    
 ## Start   
    
